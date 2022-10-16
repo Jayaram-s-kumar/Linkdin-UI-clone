@@ -1,3 +1,3 @@
-# Linkdin-UI-clone
+# LinkedIn-UI-clone
 
-Using html css and a little javascript.
+It is a LinkedIn UI clone made using HTML, CSS and JAVASCRIPT. It trulty replicates LinkedIn very well.
